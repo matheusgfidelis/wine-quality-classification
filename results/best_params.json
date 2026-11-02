@@ -1,0 +1,13 @@
+{
+  "Regress\u00e3o Log\u00edstica": {
+    "C": 0.1
+  },
+  "Decision Tree": {
+    "max_depth": 5,
+    "min_samples_leaf": 20
+  },
+  "Random Forest": {
+    "max_depth": null,
+    "min_samples_leaf": 5
+  }
+}

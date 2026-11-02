@@ -1,0 +1,7 @@
+modelo,decisao,recall_alta_ic95,precision_alta_ic95,f1_alta_ic95,roc_auc_ic95,pr_auc_ic95
+Regressão Logística,"limiar 0,5",[0.667; 0.957],[0.255; 0.520],[0.378; 0.644],[0.843; 0.938],[0.334; 0.715]
+Regressão Logística,limiar ótimo F1 (OOF treino),[0.450; 0.818],[0.312; 0.649],[0.381; 0.685],[0.843; 0.938],[0.334; 0.715]
+Decision Tree,"limiar 0,5",[0.615; 0.929],[0.260; 0.523],[0.373; 0.646],[0.783; 0.926],[0.312; 0.672]
+Decision Tree,limiar ótimo F1 (OOF treino),[0.565; 0.906],[0.264; 0.558],[0.369; 0.651],[0.783; 0.926],[0.312; 0.672]
+Random Forest,"limiar 0,5",[0.522; 0.882],[0.371; 0.735],[0.456; 0.750],[0.857; 0.964],[0.514; 0.838]
+Random Forest,limiar ótimo F1 (OOF treino),[0.565; 0.897],[0.353; 0.684],[0.453; 0.738],[0.857; 0.964],[0.514; 0.838]

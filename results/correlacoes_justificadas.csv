@@ -1,0 +1,7 @@
+var_a,var_b,spearman,tipo,justificativa
+SO₂ livre,SO₂ total,0.79,mecânica,SO₂ total = SO₂ livre + ligado; a parte livre compõe o total.
+Acidez fixa,pH,-0.71,química,O pH mede acidez: mais ácidos fixos → pH menor (relação inversa esperada).
+Acidez fixa,Ácido cítrico,0.65,mecânica,O ácido cítrico é um dos ácidos que compõem a acidez fixa.
+Acidez fixa,Densidade,0.63,química,Ácidos fixos dissolvidos (ex.: tartárico) aumentam a massa por volume → densidade maior.
+Acidez volátil,Ácido cítrico,-0.6,hipótese,Associação inversa; pode refletir processos de fermentação/conservação distintos. Não comprovado aqui.
+Ácido cítrico,pH,-0.54,química,O ácido cítrico é um ácido; mais cítrico → pH menor.

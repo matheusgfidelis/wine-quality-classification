@@ -1,0 +1,18 @@
+{
+  "base_usada": "WineQT.csv",
+  "base_oficial": true,
+  "random_state": 42,
+  "remover_duplicatas": true,
+  "metrica_selecao": "pr_auc",
+  "modelo_escolhido": "Regressão Logística",
+  "justificativa_modelo": "maior PR-AUC média na CV aninhada (0,570 ± 0,119)",
+  "linhas": 1143,
+  "colunas": 12,
+  "nulos_total": 0,
+  "duplicatas": 125,
+  "pct_duplicatas": 0.10936132983377078,
+  "n_treino": 814,
+  "n_teste": 204,
+  "n_alta_teste": 27,
+  "n_alta_treino": 110
+}
